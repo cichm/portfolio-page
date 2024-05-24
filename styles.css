@@ -1,0 +1,50 @@
+h1,h2,nav{
+font-family: "Dazzle-unicase", sans-serif;
+font-weight: 500;
+font-style: normal;
+}
+h2{
+color: rgb(127, 71, 227);
+}
+h1,nav{
+color:white;
+}
+p{
+font-family: "neue-kabel", sans-serif;
+font-weight: 400;
+font-style: normal;
+text-align: center;
+color: white;
+}
+header{
+background-color: rgb(127, 71, 227);
+}
+hr{
+color:white;
+}
+nav{
+color:white;
+text-decoration: none;
+text-align: center;
+}
+nav:hover{
+font-weight: 700;
+color:orange;
+}
+header img{
+max-width: 5rem;
+}
+header{
+display: flex;
+}
+body{
+background-image: url(images/portfolio-images/background.svg);
+background-size: cover;
+}
+h2{
+text-align: center;
+font-size: 3rem;
+}
+p{
+font-size: 1.5rem;
+}
